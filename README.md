@@ -85,11 +85,6 @@ as good as the copy that GitHub_ had! This is why `git` is called a
 student follows the same process as forking some famous project (like Ruby or
 jQuery).
 
-### Step 1
-
-Click on the New Pull Request button.
-
-![](https://curriculum-content.s3.amazonaws.com/gitpulls/2.png)
 
 ### Step 2
 
